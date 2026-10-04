@@ -36,10 +36,10 @@ I'm building AI-powered automation platforms and scalable SaaS applications usin
 
 ## 🤝 Let's Connect
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin]
-- **Twitter**: [your-twitter]
-- **Portfolio**: [your-portfolio-url]
+- **Email**: jatinjangid72973@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/jatinnjangid
+- **Twitter**: https://x.com/jatin_jangid80
+- **Portfolio**: https://jatinjangid.carrd.co
 
 ---
 
